@@ -5,4 +5,5 @@ title: Playing around with Jekyll
 
 Hello world, I'm playing around with Jekyll, check back soon for more posts.
 
-![Check back soon for more updates](https://avatars2.githubusercontent.com/u/410243?v=2&s=230)
+![Check back soon for more updates](https://avatars2.githubusercontent.com/u/410243)
+<img src="https://avatars2.githubusercontent.com/u/410243" style="width:50%; height:auto;">
